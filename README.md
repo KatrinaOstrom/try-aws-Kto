@@ -1,5 +1,5 @@
 This is a try out project for AWS.
-Katrina Ostrom
+Katrina Ostrom, CSN
 ## Available Scripts
 
 In the project directory, you can run:
