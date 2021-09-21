@@ -10,6 +10,11 @@
       "StackName": "amplify-tryawskto-dev-220539",
       "StackId": "arn:aws:cloudformation:us-east-1:890781282575:stack/amplify-tryawskto-dev-220539/9a75bc80-11db-11ec-9a17-12ea6a85114d",
       "AmplifyAppId": "d2l7dvvfk8f910"
+    },
+    "categories": {
+      "auth": {
+        "tryawskto7b4978ff": {}
+      }
     }
   }
 }
